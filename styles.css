@@ -2,7 +2,7 @@
 {
     padding: 0;
     margin: 0;
-    background-color: gray;
+    background-color: darkorange;
 }
 [data-tab-content]{
     display: none;
@@ -24,14 +24,14 @@
 
 }
 .tab.active {
-    background-color: forestgreen;
+    background-color: orange;
 
 }
 .tab:hover{
-    background-color:  lightgreen;
+    background-color:  lightgoldenrodyellow;
 }
 ul{
-    background-color: darkgreen;
+    background-color: darkgoldenrod;
 }
 a{
     text-decoration: none;
